@@ -1,0 +1,58 @@
+h1{    
+
+    color:red;
+    background-color: rgba(67, 184, 180, 0.262);
+   border-radius: 10px;
+   padding: 30px;
+   text-align: center;
+    
+
+}
+.p1{
+    margin: center;
+    background-color:rgb(72, 102, 140);
+    padding: 20px;
+    text-align: center;
+    margin: 5px;
+    font-family: courier;
+    font-size: 120%;
+    border-radius: 10px;
+}
+.p2{
+    
+    background-color:rgb(72, 102, 140);
+    padding: 5px;
+    text-align: center;
+    margin: center;
+    width: 250px;
+    height: 60px;
+    font-family: courier;
+    font-size: 120%;
+    border-radius: 10px;
+    margin-left: 400px;
+    margin-bottom: 40px;
+  
+}
+.bt1{
+    
+    margin: center;
+    text-align: center;
+   border: none;
+}
+
+.bt2{
+    margin: center;
+    text-align: center;
+    border: none;
+    
+}
+
+
+body{
+ 
+    height: 650 px;  
+    color: #fff;
+    background-image: url('../assets/images/bg1.jpg');  
+    background-size: 100%;  
+    background-size: cover;  
+}
